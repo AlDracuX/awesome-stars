@@ -1,11 +1,11 @@
 # Awesome AlDracuX stars
 
-*Last updated: 2026-10-27 08:44 UTC*
+*Last updated: 2026-10-27 08:48 UTC*
 *Categorized using Claude (Sonnet + Opus cross-check, Opus tie-break) (16 lists)*
 
 My GitHub stars, sorted into lists by what each repo is for. Generated from my GitHub star lists; some lists are kept private and are not shown here.
 
-**1,026** repositories organized into **13** categories
+**1,027** repositories organized into **13** categories
 
 ### 📑 Table of Contents
 
@@ -20,7 +20,7 @@ My GitHub stars, sorted into lists by what each repo is for. Generated from my G
 - [MCP Servers](#mcp-servers) (51)
 - [Search & RAG](#search-rag) (47)
 - [Terminal & CLI](#terminal-cli) (47)
-- [Evals & Testing](#evals-testing) (35)
+- [Evals & Testing](#evals-testing) (36)
 - [Learning & Curiosities](#learning-curiosities) (33)
 
 ---
@@ -1040,6 +1040,7 @@ My GitHub stars, sorted into lists by what each repo is for. Generated from my G
 - [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) `Python` ⭐ 599 - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, ...
 - [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) `TypeScript` ⭐ 515 - Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (wo...
 - [vectara/awesome-agent-failures](https://github.com/vectara/awesome-agent-failures) ⭐ 221 - A community curated collection of AI agent failure modes and battle-tested solutions.
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) `Python` ⭐ 173 - This repository hosts the code of Papers with Code, which tracks trending AI research with code, dat...
 - [microsoft/promptpex](https://github.com/microsoft/promptpex) `TeX` ⭐ 164 - Test Generation for Prompts
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) `Rust` ⭐ 152 - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and...
 - [nooscraft/tokuin](https://github.com/nooscraft/tokuin) `Rust` ⭐ 144 - CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, Open...
